@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lothario]]></title>
         <description><![CDATA[Lothario]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lothario/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 19:37:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 19:49:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lothario/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My reaction when I get my paycheck]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1341e146-6e78-424b-87c9-6d44d5e63ec2.gif"></article>]]></description>
+            <link>https://thegrid.ai/lothario/my-reaction-when-i-get-my-paycheck/index.html</link>
+            <guid isPermaLink="false">1a7f1fc1-d853-4744-b4ec-423eb2144ec2</guid>
+            <pubDate>Tue, 05 Jan 2016 19:49:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Food Ingradients]]></title>
-            <description><![CDATA[<article><h1>Food Ingradients</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14365a2c-a6e0-4683-9da4-6ae559925d54.jpg"></article>]]></description>
-            <link>undefinedfood-ingradients/index.html</link>
+            <description><![CDATA[<article><h1>Food Ingradients</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d91ef90ac3adb4ae19fa300b6c816e05c12d826.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lothario/food-ingradients/index.html</link>
             <guid isPermaLink="false">e8c52a38-4f8d-41e7-bcf1-d25eac5cbebf</guid>
             <pubDate>Tue, 05 Jan 2016 19:37:51 GMT</pubDate>
         </item>
