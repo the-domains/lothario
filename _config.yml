@@ -1,6 +1,6 @@
 name: Lothario
 favicon: null
-layout_spectrum: 0.17704
+layout_spectrum: 1
 typography_spectrum: 0.22037
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#fed5fd'
     - '#3607ab'
     - '#7842f2'
-  brandStrength: 0.1875
+  brandStrength: 0.8125
   lightness: 0.1875
   saturation: 0.75
   rhythmicContrast: 0.25
