@@ -1,7 +1,7 @@
 name: Lothario
 favicon: null
-layout_spectrum: 0.7001673805061728
-typography_spectrum: 0.32891388121061027
+layout_spectrum: 0.17704
+typography_spectrum: 0.22037
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.24337456631474197
-  lightness: 0.053331270115450025
-  saturation: 0.5572229570243508
-  rhythmicContrast: 0.10431394726037979
+    - '#00fff9'
+    - '#ba8bfd'
+    - '#fed5fd'
+    - '#3607ab'
+    - '#7842f2'
+  brandStrength: 0.1875
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
